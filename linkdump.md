@@ -14,3 +14,12 @@ https://en.wikipedia.org/wiki/Catechism#Baptist_catechisms
 
 https://arxiv.org/abs/1611.08669
 
+https://www.newyorker.com/magazine/2018/04/02/are-we-already-living-in-virtual-reality
+
+https://docs.google.com/document/d/1W5Rn2YHxBricHXh94Ut15ivxeoDuXdre3EwxZ3NZoLQ/edit
+
+https://events.educause.edu/eli/focus-sessions/2018/extended-reality-xr-how-ar-vr-and-mr-are-extending-learning-opportunities/resources
+
+https://events.educause.edu/eli/focus-sessions/2018/extended-reality-xr-how-ar-vr-and-mr-are-extending-learning-opportunities/resources
+
+https://www.nytimes.com/2018/02/24/opinion/sunday/doctors-revolt-bernard-lown.html
