@@ -11,3 +11,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-ar
 http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html
 
 https://en.wikipedia.org/wiki/Catechism#Baptist_catechisms
+
+https://arxiv.org/abs/1611.08669
+
