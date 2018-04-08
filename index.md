@@ -3,7 +3,8 @@ just take out the whole entire bucket list at once because why not
 
 ### Proud and Ashamed
 
-[link dump](linkdump.html)[playlist](playlist.md)
+[link dump](linkdump.md)
+[playlist](playlist.md)
 
 In the complexity of the world, find solace in the 
 > happiness of pursuit
