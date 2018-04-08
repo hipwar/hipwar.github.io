@@ -1,11 +1,10 @@
 ## as always, in over head
 just take out the whole entire bucket list at once because why not
 
-### Proud and Ashamed
+### something something buffalo
 
-[link dump](linkdump.md)
 [playlist](playlist.md)
-
+[stay] (linkdump.md)
 In the complexity of the world, find solace in the 
 > happiness of pursuit
 
