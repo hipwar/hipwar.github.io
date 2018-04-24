@@ -4,7 +4,8 @@ just take out the whole entire bucket list at once because why not
 ### something something buffalo
 
 [playlist](/playlist.md) 
-[stay](/linkdump.md)
+
+[stay](/derp.md)
 In the complexity of the world, find solace in the 
 > happiness of pursuit
 
