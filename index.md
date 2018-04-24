@@ -6,7 +6,8 @@ just take out the whole entire bucket list at once because why not
 [playlist](/playlist.md) 
 
 [stay](/derp.md)
-In the complexity of the world, find solace in the 
+
+In the complex find the 
 > happiness of pursuit
 
 ### don't underestimate how great it is to be here
