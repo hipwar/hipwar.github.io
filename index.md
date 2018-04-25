@@ -2,6 +2,11 @@
 just take out the whole entire bucket list at once because why not
 
 ### something something buffalo
+some spot to put thoughts
+from a need to try harder
+pick three words
+object structure relation
+chair assembly patron
 
 [playlist](/playlist.md) 
 
