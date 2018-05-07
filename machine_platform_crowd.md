@@ -20,4 +20,18 @@ Better yet, take the judgments of a thousand people.
 Note: The Intrinsic Value of Control: The Propensity to Under-Delegate in the Face of Potential Gains and Losses https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2733142
 
 
+Interesting questions on page 109:
 
+If you have business processes that require a lot of person-to-person interaction, is this because your customers (or employees, suppliers, or other partners) value it, or because they don't have an equally efficient digital alternative?
+which aspects of work in your industry are most likely to be virtualized in the next three to five years? If given the choice, which of your customers would prefer more virtualized interactions?
+
+I should define virtualization in this context.
+
+The robotic cambrian explosion is due to cheap sensors and digital progress of all kinds. DANCE: Data, Algorithms, Networks, Cloud, Exponential improvements in hardware.
+
+Drive Hard, Design Weird.
+
+Design Weird -- I like that.
+
+How long until we apply the process of systematic improvement using data to education? Learning optimization processes, do they exist as yet? 
+Knowledge acquisition, memory recall, habit formation, holistic integration. Let's get it.
