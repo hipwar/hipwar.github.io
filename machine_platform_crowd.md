@@ -62,3 +62,10 @@ Turn difficult behaviors into default behaviors. Example:
 	Layers checked for accuracy
 	Estimated print time & weight
 They can almost all be checkboxes.
+
+Need to revisit the economics section.
+And the network effects section. What's that all about? 
+
+Two-sided markets have customers on each side with the platform in between. Drivers and Riders, Merchants and Buyers, Learners and Teachers.
+
+What's the Library platform going to look like? Information transactions on both sides enabled by a platform intermediary. What are our current costs?
