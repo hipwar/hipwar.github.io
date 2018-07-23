@@ -69,3 +69,8 @@ And the network effects section. What's that all about?
 Two-sided markets have customers on each side with the platform in between. Drivers and Riders, Merchants and Buyers, Learners and Teachers.
 
 What's the Library platform going to look like? Information transactions on both sides enabled by a platform intermediary. What are our current costs?
+
+
+Concluding remarks suggest two features that organizations should strive to embody: egalitarianism of ideas, and transparency in action. 
+	How can we broaden the reach of our ideas? When we re-think spaces and services, how can we maximize the diversity of voices that contribute to our decision making processes?
+	How can we be more open about our processes and organizational efforts? 
